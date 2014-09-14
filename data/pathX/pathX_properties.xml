@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    The properties in this file setup a Harry Potter flavor of this game called
+    The Sorting Hat. Note that by swapping out all these settings we could easily
+    change the flavor.
+-->
+<properties>
+    <property_list>
+        <!-- ALL THE IMAGES TO BE USED IN THE GAME -->
+        <property name="IMAGE_GAME_SPLASH"              	value="./GameSplash.png"></property>
+        <property name="IMAGE_GAME_SETTING"              	value="./GameSetting.png"></property>
+        <property name="IMAGE_GAME_LEVEL_SELECT"            value="./LevelSelect.png"></property>
+        <property name="IMAGE_GAME_PLAY"        			value="./GameScreen.png"></property>
+		<property name="IMAGE_GAME_HELP"        			value="./HelpScreen.png"></property>
+        <property name="IMAGE_GAME_INFO_DIALOG"             value="./GameInfoDialog.png"></property>
+        <property name="IMAGE_BUTTON_PLAY"      			value="./PlayButton.png"></property>
+        <property name="IMAGE_BUTTON_RESET"    		        value="./ResetButton.png"></property>
+		<property name="IMAGE_BUTTON_SETTING"   			value="./SettingsButton.png"></property>
+		<property name="IMAGE_BUTTON_HELPS"   				value="./HelpButton.png"></property>
+		<property name="IMAGE_BUTTON_HOME"   				value="./HomeButton.png"></property>
+		<property name="IMAGE_BUTTON_QUIT"   				value="./QuitButton.png"></property>
+        <property name="IMAGE_BUTTON_INFO_DIALOG_CLOSE"     value="./DialogCloseButton.png"></property>
+		<property name="IMAGE_WINDOW_ICON"    				value="./WindowIcon.png"></property>
+		<property name="IMAGE_MAP"                          value="./EuropeanMap.png"></property>
+		<property name="IMAGE_LOCKED_SITE"                  value="./LockedSite.png"></property>
+		<property name="IMAGE_FAILED_SITE"                  value="./FailSite.png"></property>
+		<property name="IMAGE_SUCCESS_SITE"                 value="./SuccessSite.png"></property>
+		<property name="IMAGE_SCROLL_RIGHT"                 value="./ScrollRightButton.png"></property>
+		<property name="IMAGE_SCROLL_LEFT"                  value="./ScrollLeftButton.png"></property>
+		<property name="IMAGE_SCROLL_UP"                    value="./ScrollUpButton.png"></property>
+		<property name="IMAGE_SCROLL_DOWN"                  value="./ScrollDownButton.png"></property>
+		<property name="IMAGE_ZOMBIE"                 		value="./xiluo.png"></property>
+		<property name="IMAGE_BANDIT"                  		value="./bandit.png"></property>
+		<property name="IMAGE_COP"                  		value="./cop.png"></property>
+		<property name="IMAGE_CAR"                  		value="./car.png"></property>
+		<property name="IMAGE_GAME_MAP"                  	value="./GameMap.png"></property>
+		<property name="IMAGE_DESTINATION"                  value="./italy.png"></property>
+		<property name="IMAGE_CLOSE_NODE"                  	value="./CloseNode.png"></property>
+		<property name="IMAGE_OPEN_NODE"          	        value="./OpenNode.png"></property>
+		<property name="IMAGE_BUTTON_START"                 value="./Start.png"></property>
+		<property name="IMAGE_BUTTON_PAUSE"          	    value="./Pause.png"></property>
+		<property name="IMAGE_BUTTON_LEAVE"               	value="./LeaveTownButton.png"></property>
+		<property name="IMAGE_BUTTON_TRY"          	    	value="./TryAgainButton.png"></property>
+		<property name="IMAGE_BUTTON_SPEED"          	    value="./SpeedButton.PNG"></property>
+		<property name="IMAGE_BUTTON_MUTE"          	    value="./mute.PNG"></property>
+		<property name="IMAGE_BUTTON_UNMUTE"          	    value="./unmute.PNG"></property>
+		<property name="IMAGE_SPECIAL_SHEET"          	    value="./SpecialSheet.PNG"></property>
+		<property name="IMAGE_SPECIAL_LOCKED"          	    value="./lockedSpecial.PNG"></property>
+		
+  
+		<!--  Text file to show the help info -->
+		<property name="TEXT_HELP_INFO"						value="./data/pathX/HelpInfo.txt"></property>
+		<property name="HTML_HELP_INFO"						value="./data/pathX/HelpInfo.html"></property>			
+  
+		<!-- ALL THE TEXT TO BE DISPLAYED -->
+		<property name="TEXT_TITLE_BAR_GAME"                value="PathX"></property>
+		<property name="ACCOUNT_BALANCE"                   	value="Balance:$"></property>
+		<property name="GOAL_AMOUNT"                    	value="Goal:$100,000"></property>
+		       
+        
+        <!-- AUDIO FILES --> <!--
+        <property name="AUDIO_CUE_BAD_MOVE"                 value="./sorting_hat/BadMove.wav"></property>
+        <property name="AUDIO_CUE_CHEAT"                    value="./sorting_hat/Cheat.wav"></property>
+        <property name="AUDIO_CUE_DESELECT_TILE"            value="./sorting_hat/DeselectTile.wav"></property>
+        <property name="AUDIO_CUE_GOOD_MOVE"                value="./sorting_hat/GoodMove.wav"></property>
+        <property name="AUDIO_CUE_SELECT_TILE"              value="./sorting_hat/SelectTile.wav"></property>
+        <property name="AUDIO_CUE_UNDO"                     value="./sorting_hat/Undo.wav"></property>
+        <property name="AUDIO_CUE_WIN"                      value="./sorting_hat/Win.mid"></property>
+        <property name="SONG_CUE_GAME_SCREEN"               value="./sorting_hat/GameSong.mid"></property>        
+        <property name="SONG_CUE_MENU_SCREEN"               value="./sorting_hat/MenuSong.mid"></property>    -->
+    </property_list>
+    
+    <!-- PLAYABLE LEVELS CREATED WITH THE LEVEL EDITOR -->
+    <property_options_list> 
+		<property_options name="LEVEL_OPTIONS_FILE">
+			<option>Level-Benfica.xml</option>
+            <option>Level-RealMadrid.xml</option>
+			<option>Level-Liverpool.xml</option>
+			
+        </property_options>
+		
+        <property_options name="LEVEL_OPTIONS_NAME">
+			<option>SITE_Benfica</option>
+            <option>SITE_Real_Madrid</option>
+			<option>SITE_Liverpool</option>
+			<option>SITE_MAN_UNITED</option>
+			<option>SITE_Chelsea</option>
+			<option>SITE_Barcelona</option>
+			<option>SITE_Paris</option>
+			<option>SITE_Ajax</option>
+			<option>SITE_Dortmund</option>
+			<option>SITE_Milan</option>
+			<option>SITE_Munich</option>
+			<option>SITE_Roma</option>
+			<option>SITE_Napoli</option>
+			<option>SITE_Belgrade</option>
+			<option>SITE_Olympiacos</option>
+			<option>SITE_Bucureti</option>
+			<option>SITE_Kyiv</option>
+			<option>SITE_Galatasaray</option>
+			<option>SITE_Moscow</option>
+			<option>SITE_Juventus</option>
+        </property_options>
+		
+		<property_options name="LEVEL_OPTIONS_SITE_INFO">
+			<option>            Benfica - $100</option>
+            <option>        Real Madrid - $110</option>
+			<option>          Liverpool - $120</option>
+			<option>         Man United - $130</option>
+			<option>            Chelsea - $140</option>
+			<option>          Barcelona - $150</option>
+			<option> Paris Saint German - $160</option>		
+			<option>               Ajax - $170</option>
+			<option>           Dortmund - $190</option>
+			<option>           AC Milan - $200</option>
+			<option>      Bayern Munich - $210</option>
+			<option>               Roma - $220</option>
+			<option>             Napoli - $230</option>
+			<option>  Red Star Belgrade - $240</option>
+			<option>         Olympiacos - $250</option>
+			<option>FC Steaua Bucuresti - $260</option>
+			<option>     FC Dynamo Kyiv - $270</option>
+			<option>        Galatasaray - $280</option>
+			<option>Central Army Moscow - $290</option>
+			<option>           Juventus - $180</option>			
+		</property_options>
+		
+		<property_options name="LEVEL_OPTIONS_X">
+			<option>15</option>
+            <option>150</option>
+			<option>225</option>
+			<option>250</option>
+			<option>270</option>
+			<option>275</option>
+			<option>310</option>
+			<option>380</option>
+			<option>445</option>
+			<option>475</option>
+			<option>480</option>
+			<option>530</option>
+			<option>585</option>
+			<option>695</option>
+			<option>795</option>
+			<option>810</option>
+			<option>870</option>
+			<option>925</option>
+			<option>1000</option>
+			<option>415</option>
+        </property_options>
+		
+		<property_options name="LEVEL_OPTIONS_Y">
+            <option>520</option>
+			<option>495</option>
+			<option>110</option>	
+			<option>105</option>
+			<option>170</option>
+			<option>485</option>
+			<option>250</option>
+			<option>140</option>
+			<option>155</option>
+			<option>375</option>
+			<option>290</option>
+			<option>500</option>
+			<option>540</option>
+			<option>385</option>
+			<option>600</option>
+			<option>390</option>
+			<option>180</option>
+			<option>470</option>
+			<option>40</option>
+			<option>390</option>
+        </property_options>
+    </property_options_list>
+</properties>

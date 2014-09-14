@@ -1,0 +1,78 @@
+                            	  pathX
+
+This is pathX European Football Club Juve & Italy Special Edition.The
+game will lead you all around the Europe, you will set your foot on some
+unprecedently  extravagant  clubs, as  well as  some  historical  Gaints 
+currently fading off. Of course, the best Football Club ever.
+
+***GAME PLAY***
+The game got 20 levels, for each level you will start at a Football club
+after a sucessful robbery and try as hard as you can to move your car to
+the rally point(Italian National Football Team Flag) expect for level 20
+Level-Turino (Levels will be unlocked in order when you success one).
+Meanwhile,you will aslo pay attention to all the assholes
+that want to compromise you. They are:
+
+Bandits: They are relatively the nicest assholes in the game, caught by 
+them, you only lose 10% of your plunder for that particular level. And
+they wander in a traceable pattern, they always start at your rally site
+and find top 3 longest intersects, randomly choose one and move  there 
+along the  shortest  path and then choose another, moving there in the 
+same way.
+
+Cops: They are really assholes, you definitely want to avoid them, Or
+you will be driven out and bribe these M***-F***ers with 10% of your
+total balance. Nice thing is they patrol along a loop, but still once upon
+an  intersect they will  choose to go  CW or CCW, and they can get 
+through close intersects and oneWay Roads.
+
+Xiluo(Refer to CR7 - Underwear Brand. Not Obama by the way): 
+Be careful!!!!!! They are nothing but hounds with rabies, wants nothing
+but gives you a lethal bite. One bite reduces 20% of your Car speed.
+Five, you are sitting-ducks. And they always randomly wander between 
+intersects with no way to predict. Assholes, ain't they.
+
+Your own Car:you can control the car by clicking on the node you want
+or press on the car and drag to the wanted node, then a shortest will be
+planned. One thing to notice is, Once your car is on the road, you can 
+either to let it go back or move forward and stop at the adjacent Nodes.
+
+Specials:
+aMake Light Green (G)
+Make Light Red (R)
+Decrease Speed Limit (Z)
+Increase Speed Limit (X)
+Increase Player Speed (P)
+Flat Tire (T)
+Empty Gas Tank (E)
+Close Road (H)
+Close Intersection (C)
+Open Intersection (O)
+Steal (Q)
+Mind Control (M)
+Intangibility (B)
+Mindless Terror (L)
+Flying (Y)
+Invincibility (V)
+You have to purchase these with your money, and they will be unlocked 
+in order once you success a certain level.
+
+Keyboard shotcuts and cheats:
+GameMap Scrolling (SWAD)
+Unlock a level (N)
+Increase your balance by $100 (I)
+
+***Behind This***
+Richard McKenna: Professor of  SBU  Computer  Science. Provider of 
+Game FrameWork and libraries for loading xml, audio files etc.
+
+Me: A mechanical Engineer  happens to  feel passionate  about  these,
+making things basically. No single credit gained from this game, but fun
+and fulfillment of eventually making something. A crazy and dedicated 
+supporter of Juventus and Italian National Football team for more than 
+16 years(three quarters of my life). A strong believer of "Engineering 
+Technology makes our lives better."
+
+ALL codes are accessible here:
+https://github.com/StevenYue/PathX.git
+
